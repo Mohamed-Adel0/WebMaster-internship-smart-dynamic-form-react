@@ -39,8 +39,7 @@ This approach saved time and made the form more scalable and maintainable.
 
 ## 📷 Screenshot
 
-*(Add a screenshot of your form if available)*
-
+![alt text](image.png)
 ---
 
 ## 🧑‍💻 How to Run Locally
@@ -50,4 +49,3 @@ git clone https://github.com/your-username/WebMaster-internship-smart-dynamic-fo
 cd WebMaster-internship-smart-dynamic-form-react
 npm install
 npm run dev
-![alt text](image.png)
