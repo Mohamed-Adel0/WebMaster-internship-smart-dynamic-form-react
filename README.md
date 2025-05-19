@@ -45,7 +45,5 @@ This approach saved time and made the form more scalable and maintainable.
 ## 🧑‍💻 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/WebMaster-internship-smart-dynamic-form-react.git
-cd WebMaster-internship-smart-dynamic-form-react
 npm install
 npm run dev
